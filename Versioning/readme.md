@@ -1,0 +1,1 @@
+command  --    terraform init -upgrade
